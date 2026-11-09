@@ -86,9 +86,19 @@ Nmap done: 1 host up — 0 critical findings. Defense in depth. 🛡️
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F89939?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
+
+## 🚀 Latest Ops — `$ ls ~/projects`
+
+<div align="center">
+
+[![PhishGuard](https://img.shields.io/badge/%F0%9F%A4%96_PhishGuard-ML_phishing_URL_detector-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/phishguard)
+[![StegoLens](https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F_StegoLens-LSB_steganography_%2B_steganalysis-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/stegolens)
+[![Pentest Notes](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F_Pentest_Notes-recon_%E2%86%92_privesc_%E2%86%92_hardening-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/pentest-notes)
 
 </div>
 
@@ -128,6 +138,7 @@ Rust for Tooling         [■■□□□□□□□□]  20%
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mustafaak0-0D1117?style=for-the-badge&logo=github&logoColor=00E676)](https://github.com/mustafaak0)
+[![Site](https://img.shields.io/badge/Site-mustafaak0.github.io-0D1117?style=for-the-badge&logo=githubpages&logoColor=00E676)](https://mustafaak0.github.io)
 
 **Open to collaboration** → security tooling · CTF teams · ML-powered threat intelligence
 
