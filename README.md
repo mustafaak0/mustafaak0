@@ -86,17 +86,33 @@ Nmap done: 1 host up — 0 critical findings. Defense in depth. 🛡️
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F89939?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
+
+## 🧠 Currently Training — `$ tail -f learning.log`
+
+```bash
+Malware Analysis         [■■■■■■■■■□]  90%
+Threat Intelligence      [■■■■■■■□□□]  70%
+Cloud Security (AWS)     [■■■■■■□□□□]  60%
+OSCP / eCPPT Prep        [■■■■■□□□□□]  40%
+Rust for Tooling         [■■□□□□□□□□]  20%
+```
 
 ## 📊 Telemetry
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mustafaak0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaak0&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=mustafaak0&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="Streak stats"/>
 </div>
 
 <br/>
