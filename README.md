@@ -97,7 +97,8 @@ Nmap done: 1 host up — 0 critical findings. Defense in depth. 🛡️
 <div align="center">
 
 [![PhishGuard](https://img.shields.io/badge/%F0%9F%A4%96_PhishGuard-ML_phishing_URL_detector-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/phishguard)
-[![StegoLens](https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F_StegoLens-LSB_steganography_%2B_steganalysis-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/stegolens)
+[![StegoLens](https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F_StegoLens-LSB_stego_%2B_steganalysis-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/stegolens)
+[![PwnCheck](https://img.shields.io/badge/%F0%9F%94%90_PwnCheck-password_strength_%2B_HIBP_breach-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/pwncheck)
 [![Pentest Notes](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F_Pentest_Notes-recon_%E2%86%92_privesc_%E2%86%92_hardening-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/pentest-notes)
 
 </div>
