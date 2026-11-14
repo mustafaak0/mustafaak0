@@ -102,6 +102,7 @@ Nmap done: 1 host up — 0 critical findings. Defense in depth. 🛡️
 [![PwnCheck](https://img.shields.io/badge/%F0%9F%94%90_PwnCheck-password_strength_%2B_HIBP_breach-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/pwncheck)
 [![LogSentinel](https://img.shields.io/badge/%F0%9F%93%9C_LogSentinel-SSH_log_anomaly_detector-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/logsentinel)
 [![PacketHawk](https://img.shields.io/badge/%F0%9F%93%A1_PacketHawk-pcap_forensics_%2B_threat_hunting-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/packethawk)
+[![VulnHawk](https://img.shields.io/badge/%F0%9F%A6%85_VulnHawk-web_vuln_%2B_misconfig_scanner-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/vulnhawk)
 [![Pentest Notes](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F_Pentest_Notes-recon_%E2%86%92_privesc_%E2%86%92_hardening-00E676?style=flat-square&labelColor=0D1117)](https://github.com/mustafaak0/pentest-notes)
 
 </div>
